@@ -13,7 +13,9 @@ $('#sizePicker').submit(function (event) {
 
 //creates grid's row and columns, r=rows, c=columns
 function makeGrid(x, y) {
-    $('tr').remove(); //clear grid for next
+    grid = $("#pixelCanvas")[0]; //clear grid for next
+	while (grid.rows.length > 0)
+    grid.deleteRow(0); 
     
     //Your code goes here!
     
