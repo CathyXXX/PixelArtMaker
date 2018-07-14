@@ -1,6 +1,6 @@
 # Pixel Art Maker Project
 
-Visit this link to view the project https://cathyxxx.github.io/PixelArtMaker/
+Visit this link to view the project https://cathyxxx.github.io/Udacity-PixelArtMaker/
 
 ## Table of Contents
 
